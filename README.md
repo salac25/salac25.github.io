@@ -42,7 +42,7 @@ Whether it’s managing content, optimizing workflows, or developing a website f
 ---
 
 ## 📂 Portfolio Highlights
-- 🌍 **[My GitHub Page Portfolio](https://salac25.github.io/)** *(replace with your actual link)*  
+- 🌍 **[My GitHub Page Portfolio](https://salac25.github.io/) 
 - ⚡ WordPress Project: “Botica Plus”  
 - 📰 SEO Article: “Top Electric Cars”  
 - 🧭 Drupal Project: “The Waterfall — Government Style Website”  
