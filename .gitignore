@@ -1,0 +1,46 @@
+# =============================
+# 🌐 General Git Ignore Rules
+# =============================
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Node / Frontend build files (if using npm or build tools)
+node_modules/
+dist/
+build/
+.env
+.env.local
+
+# WordPress related (if you include a local WP folder)
+wp-config.php
+wp-content/uploads/
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/debug.log
+
+# Backup and archive files
+*.zip
+*.tar.gz
+*.rar
+
+# IDE & Editor folders
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# =============================
+# 🧩 Custom Rules
+# =============================
+# Ignore personal images, drafts, and test files
+drafts/
+temp/
+private/
